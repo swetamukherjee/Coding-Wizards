@@ -6,7 +6,7 @@ public class q6 {
 		// TODO Auto-generated method stub
 		int np=1;
 		int n=1;
-		while(np<=10001)
+		while(np<10001)
 		{
 			n+=2;
 			if(isPrime(n))
